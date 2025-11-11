@@ -4,4 +4,5 @@ langchain-community
 langchain-google-genai
 langchain-text-splitters
 pypdf
+unstructured[all-docs]
 chromadb
